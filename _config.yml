@@ -9,26 +9,19 @@ name: Magandy
 description: student blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: <img src="https://orig00.deviantart.net/10b3/f/2011/057/e/8/14__iroh_by_kremlinh-d3afjmb.png" alt="Image result for chibi iroh"/>
+avatar: https://goo.gl/images/Q4n3RX
 #
 # Flags below are optional
 #
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  email: bobbob@gmail.com
+  github: magandy.github.io
+  rss: I dont take kindly to spam!
+  twitter: twweeettttt!!!!!!!!!
+  stackoverflow: "users/50476/bart-kiers"
+  youtube: what's inside
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
